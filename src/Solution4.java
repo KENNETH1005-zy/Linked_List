@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution4 {
     public static ListNode reorderList(ListNode head){
         if (head == null)

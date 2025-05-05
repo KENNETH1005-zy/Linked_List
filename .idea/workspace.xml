@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7af4998e-0aad-4912-96b2-0307838c227d" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +43,13 @@
     "Application.Solution2.executor": "Run",
     "Application.Solution3.executor": "Run",
     "Application.Solution4.executor": "Run",
+    "Application.Solution5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution4">
+  <component name="RunManager" selected="Application.Solution5">
     <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution2" />
       <module name="In-Place_Manipulation_of_a_Linked List" />
@@ -69,8 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution5" />
+      <module name="In-Place_Manipulation_of_a_Linked List" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
@@ -110,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746398324519</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new">
+      <option name="closed" value="true" />
+      <created>1746472633853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746472633853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
